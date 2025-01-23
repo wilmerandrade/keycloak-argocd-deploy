@@ -1,4 +1,4 @@
-apiVersion: 2
+apiVersion: v2
 name: argocdapps
 type: application
 version: 1.0.0
