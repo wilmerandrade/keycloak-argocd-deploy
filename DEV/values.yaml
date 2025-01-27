@@ -1,6 +1,6 @@
 argocd-apps:
   applications:
-    - name: operador
+    operador:
       namespace: argocd
       finalizers:
       - resources-finalizer.argocd.argoproj.io
